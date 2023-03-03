@@ -1,4 +1,4 @@
-# see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
+8# see https://github.com/j-hc/revanced-magisk-module/blob/main/CONFIG.md for more detailed explanations
 compression-level = 9         # compression level for module zips. between 1 and 9
 logging-to-file = true        # enables logging of every patch process to a seperate file
 enable-magisk-update = true   # set this to false if you do not want to receive updates for the module in magisk app
@@ -13,7 +13,7 @@ rv-brand = "ReVanced Extended"
 build-mode = "both"
 excluded-patches = "custom-branding-icon-afn-red custom-branding-name"
 included-patches = ""
-version = "18.08.36"
+version = "auto"
 exclusive-patches = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
