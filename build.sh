@@ -18,7 +18,7 @@ vtf() {
 	fi
 }
 
-toml_prep "$(cat 2>/dev/null "${1:-config.toml}")" || abort "could not find config file '${1:-config.toml}'\n\tUsage: $0 <config.toml>"
+toml_prep "$(cat 2>/dev/null "${1:-config-rv-ex.toml}")" || abort "could not find config file '${1:-config-rv-ex.toml}'\n\tUsage: $0 <config-rv-ex.toml>"
 # -- Main config --
 main_config_t=$(toml_get_table "")
 COMPRESSION_LEVEL=$(toml_get "$main_config_t" compression-level) || COMPRESSION_LEVEL="9"
