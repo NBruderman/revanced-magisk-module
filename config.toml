@@ -20,7 +20,7 @@ patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
-excluded-patches = ""
+excluded-patches = "custom-branding-name custom-branding-icon-afn-red"
 included-patches = ""
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
