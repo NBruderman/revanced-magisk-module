@@ -100,3 +100,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/joaomgcd/tasker/"
 [Photomath]
 enabled = false
 apkmonk-dlurl = "https://www.apkmonk.com/app/com.microblink.photomath/"
+
+[pixiv]
+apkmirror-dlurl = "https://apkmirror.com/apk/pixiv-inc/pixiv/"
+version = "auto"
