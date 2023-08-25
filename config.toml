@@ -80,8 +80,8 @@ apkmonk-dlurl = "https://www.apkmonk.com/app/com.microblink.photomath/"
 
 [Music-Extended] # unmaintained
 app-name = "Music"
-patches-source = "inotia00/revanced-patches"
-integrations-source = "inotia00/revanced-integrations"
+patches-source = "YT-Advanced/ReX-patches"
+integrations-source = "YT-Advanced/ReX-integrations"
 cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
