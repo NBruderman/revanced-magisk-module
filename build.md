@@ -18,7 +18,7 @@ Patches: ReVanced/revanced-patches-2.189.0.jar
 * Restore previous release ([f7352fe](https://github.com/ReVanced/revanced-patches/commit/f7352feb6e9604162b52072d74310b9e3067bc69))
 
 ---
-CLI: inotia00/revanced-cli-2.22.2-all.jar  
+CLI: j-hc/revanced-cli-3.0.1-all.jar  
 Integrations: YT-Advanced/revanced-integrations-0.117.3.apk  
 Patches: YT-Advanced/revanced-patches-2.189.0.jar  
 
