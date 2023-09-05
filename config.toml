@@ -85,8 +85,8 @@ apkmonk-dlurl = "https://www.apkmonk.com/app/com.microblink.photomath/"
 
 [Music-Extended] # unmaintained
 app-name = "Music"
-patches-source = "YT-Advanced/ReX-patches"
-integrations-source = "YT-Advanced/ReX-integrations"
+patches-source = "inotia00/revanced-patches"
+integrations-source = "inotia00/revanced-integrations"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube-music/"
