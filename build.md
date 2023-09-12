@@ -1,5 +1,4 @@
 YouTube: 18.32.39  
-Music: 6.17.52  
 Music-Extended: 6.17.52  
 pixiv: 6.86.1  
 
@@ -9,7 +8,7 @@ Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for
 
 ---
 Changelog:  
-CLI: j-hc/revanced-cli-3.1.0-all.jar  
+CLI: inotia00/revanced-cli-3.1.2-all.jar  
 Integrations: inotia00/revanced-integrations-0.117.1.apk  
 Patches: inotia00/revanced-patches-2.190.1.jar  
 
