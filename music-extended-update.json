@@ -1,6 +1,6 @@
 {
   "version": "v6.19.51",
-  "versionCode": 20221024,
-  "zipUrl": "https://github.com/NBruderman/revanced-magisk-module/releases/download/20221024/music-revanced-extended-magisk-v6.19.51-arm64-v8a.zip",
+  "versionCode": 20221025,
+  "zipUrl": "https://github.com/NBruderman/revanced-magisk-module/releases/download/20221025/music-revanced-extended-magisk-v6.19.51-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/NBruderman/revanced-magisk-module/update/build.md"
 }
