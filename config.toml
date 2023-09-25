@@ -45,6 +45,7 @@ build-mode = "apk"
 uptodown-dlurl = "https://twitter.en.uptodown.com/android"
 
 [Twitch]
+enabled = false
 uptodown-dlurl = "https://twitch.en.uptodown.com/android"
 
 [TikTok]
