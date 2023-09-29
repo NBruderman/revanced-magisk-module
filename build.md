@@ -1,4 +1,5 @@
 YouTube: 18.32.39  
+Music-Extended: 6.21.51  
 pixiv: 6.86.1  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube or YT Music  
