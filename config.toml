@@ -8,8 +8,8 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 build-mode = "both"                                                   # 'both', 'apk' or 'module'
 excluded-patches = ""                                                 # space-seperated patches to exclude (multiline strings are not supported)
 included-patches = "remove-player-controls-background"                # space-seperated patches to include (non-excluded patches are included by default)
-version = "18.38.44"                                                      # 'auto', 'latest', 'beta' or a custom one like '17.40.41'
-apkmirror-dlurl = "https://apkmirror.com/apk/google-inc/youtube/"
+version = "auto"                                                      # 'auto', 'latest', 'beta' or a custom one like '17.40.41'
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube" 
 
 [Music-Extended]
 app-name = "Music"
