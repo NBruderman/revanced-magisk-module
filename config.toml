@@ -22,11 +22,9 @@ apkmirror-arch = "arm64-v8a"
 excluded-patches = "'Custom branding icon Revancify blue' 'Custom branding Music name'"
 
 [YouTube-Extended]
-enabled = false
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
-cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
@@ -47,7 +45,6 @@ enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [TikTok]
-enabled = false
 uptodown-dlurl = "https://tiktok.en.uptodown.com/android"
 
 [Reddit]
