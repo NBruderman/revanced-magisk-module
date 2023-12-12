@@ -12,6 +12,7 @@ excluded-patches = ""
 included-patches = "'Remove player controls background'"
 version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
+cli-source = "ReVanced/revanced-cli"
 
 [Music]
 enabled = false
