@@ -9,11 +9,12 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 [YouTube]
 build-mode = "both"
 excluded-patches = ""
-included-patches = ""
+included-patches = "'Remove player controls background'"
 version = "auto"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Music]
+enabled = false
 build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 arch = "both"
@@ -26,9 +27,11 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
-arch = "both"
+arch = "arm64-v8a"
+excluded-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music'"
 
 [YouTube-Extended]
+enabled = false
 app-name = "YouTube"
 patches-source = "inotia00/revanced-patches"
 integrations-source = "inotia00/revanced-integrations"
@@ -38,16 +41,20 @@ build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 
 [Twitter]
+enabled = false
 build-mode = "apk"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.twitter.android"
 
 [Twitch]
+enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/tv.twitch.android.app"
 
 [TikTok]
+enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.zhiliaoapp.musically"
 
 [Reddit]
+enabled = false
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.reddit.frontpage"
 
 [Messenger]
@@ -62,3 +69,8 @@ uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 [IconPackStudio]
 enabled = false
 apkmirror-dlurl = "https://www.apkmirror.com/apk/smart-launcher-team/icon-pack-studio/"
+
+[pixiv]
+enabled = false
+apkmirror-dlurl = "https://apkmirror.com/apk/pixiv-inc/pixiv/"
+
