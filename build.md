@@ -1,4 +1,4 @@
-pixiv: 6.99.0  
+pixiv: 6.100.0  
 YouTube: 19.03.36  
 
 Install [Vanced Microg](https://github.com/TeamVanced/VancedMicroG/releases) for non-root YouTube and YT Music  
