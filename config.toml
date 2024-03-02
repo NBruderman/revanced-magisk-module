@@ -9,7 +9,7 @@ enable-magisk-update = true   # set this to false if you do not want to receive 
 build-mode = "both"
 excluded-patches = ""
 included-patches = "'Remove player controls background'"
-version = "19.03.36"
+version = "auto"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
 
 [Music]
