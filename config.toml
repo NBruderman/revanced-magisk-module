@@ -61,6 +61,7 @@ build-mode = "both"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.apps.youtube.music"
 arch = "arm64-v8a"
 excluded-patches = "'Custom branding icon YouTube Music' 'Custom branding name YouTube Music'"
+version = "6.44.54"
 
 [YouTube-Extended]
 enabled = false
