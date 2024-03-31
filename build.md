@@ -1,4 +1,5 @@
 Music-Extended: 6.44.54  
+pixiv: 6.102.1  
 YouTube: 19.09.37  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
