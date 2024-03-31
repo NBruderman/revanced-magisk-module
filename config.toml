@@ -19,7 +19,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.a
 arch = "both"
 
 [pixiv]
-apkmirror-dlurl = "https://apkmirror.com/apk/pixiv-inc/pixiv/
+apkmirror-dlurl = "https://apkmirror.com/apk/pixiv-inc/pixiv/"
 
 [Twitter]
 enabled = false
