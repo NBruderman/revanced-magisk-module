@@ -37,7 +37,7 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube/"
-included-patches = "'Remove player controls background' 'Enable slide to seek'"
+included-patches = "'Force hide player buttons background'"
 excluded-patches = "'Custom branding icon YouTube' 'Custom branding name YouTube'"
 
 [pixiv]
