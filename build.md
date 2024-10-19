@@ -1,7 +1,7 @@
 YouTube: 19.16.39  
+YouTube-Extended: 19.16.39  
+pixiv: 6.128.0  
 Music-Extended: 7.16.53  
-pixiv: 6.127.0  
-YouTube-Extended: 19.28.42  
 Reddit-Extended: 2024.17.0  
 
 Install [Microg](https://github.com/ReVanced/GmsCore/releases) for non-root YouTube and YT Music APKs  
