@@ -1,6 +1,6 @@
 GooglePhotos: 7.11.0.705590205  
 Music-Extended: 7.25.53  
-YouTube: 19.50.40  
+YouTube: 19.47.53  
 YouTube-Extended: 19.44.39  
 pixiv: 6.131.0  
 
