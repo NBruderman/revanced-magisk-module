@@ -1,6 +1,6 @@
 {
-  "version": "v7.11.0.705590205 (20221154)",
-  "versionCode": 20221154,
-  "zipUrl": "https://github.com/NBruderman/revanced-magisk-module/releases/download/20221154/googlephotos-revanced-magisk-v7.11.0.705590205-arm64-v8a.zip",
+  "version": "v7.11.0.705590205 (patches: 5.8.1)",
+  "versionCode": 20221156,
+  "zipUrl": "https://github.com/NBruderman/revanced-magisk-module/releases/download/20221156/googlephotos-revanced-magisk-v7.11.0.705590205-arm64-v8a.zip",
   "changelog": "https://raw.githubusercontent.com/NBruderman/revanced-magisk-module/update/build.md"
 }
