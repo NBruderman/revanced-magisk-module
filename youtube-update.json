@@ -1,6 +1,6 @@
 {
-  "version": "v19.47.53 (patches: 5.8.1)",
-  "versionCode": 20221158,
-  "zipUrl": "https://github.com/NBruderman/revanced-magisk-module/releases/download/20221158/youtube-revanced-magisk-v19.47.53-all.zip",
+  "version": "v19.47.53 (patches: 5.9.0)",
+  "versionCode": 20221159,
+  "zipUrl": "https://github.com/NBruderman/revanced-magisk-module/releases/download/20221159/youtube-revanced-magisk-v19.47.53-all.zip",
   "changelog": "https://raw.githubusercontent.com/NBruderman/revanced-magisk-module/update/build.md"
 }
