@@ -10,7 +10,7 @@ parallel-jobs = 1
 build-mode = "both"
 excluded-patches = ""
 included-patches = "'Remove player controls background'" 
-version = "auto"
+version = "19.47.53"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 # archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
@@ -32,6 +32,7 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/photos/"
 uptodown-dlurl = "https://google-photos.en.uptodown.com/android"
 
 [Spotify]
+enabled = false
 uptodown-dlurl = "https://spotify.en.uptodown.com/android"
 version = "9.0.36.683"
 
