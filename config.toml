@@ -9,7 +9,7 @@ parallel-jobs = 1
 [YouTube]
 build-mode = "both"
 excluded-patches = ""
-included-patches = "'Remove player controls background'" 
+included-patches = "" 
 version = "19.47.53"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
@@ -55,7 +55,7 @@ cli-source = "inotia00/revanced-cli"
 rv-brand = "ReVanced Extended"
 build-mode = "both"
 version = "auto"
-included-patches = "'Force hide player buttons background' 'Return YouTube Username'"
+included-patches = "'Force hide player buttons background'"
 excluded-patches = "'Custom branding icon for YouTube' 'Custom branding name for YouTube' 'Custom header for YouTube'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 
