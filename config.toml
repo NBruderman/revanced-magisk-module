@@ -15,7 +15,6 @@ apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 uptodown-dlurl = "https://youtube.en.uptodown.com/android"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 # patches-version = "v5.33.0-dev.6"
-patches-version = "latest"
 
 [Music]
 enabled = false
