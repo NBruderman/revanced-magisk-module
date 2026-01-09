@@ -9,6 +9,8 @@ parallel-jobs = 1
 [YouTube]
 # patches-version = "dev"
 build-mode = "both"
+patches-source = "MorpheApp/morphe-patches"
+cli-source = "MorpheApp/morphe-cli"
 excluded-patches = ""
 included-patches = "" 
 version = "auto"
