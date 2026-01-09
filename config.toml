@@ -8,6 +8,8 @@ parallel-jobs = 1
 
 [YouTube]
 # patches-version = "dev"
+app-name = "YouTube"
+rv-brand = "Morphe"
 build-mode = "both"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
