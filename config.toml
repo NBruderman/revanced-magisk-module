@@ -9,6 +9,17 @@ parallel-jobs = 1
 [YouTube]
 # patches-version = "dev"
 app-name = "YouTube"
+build-mode = "both"
+excluded-patches = ""
+included-patches = "" 
+version = "auto"
+apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
+uptodown-dlurl = "https://youtube.en.uptodown.com/android"
+archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
+
+[YouTube-Morphe]
+# patches-version = "dev"
+app-name = "YouTube"
 rv-brand = "Morphe"
 build-mode = "both"
 patches-source = "MorpheApp/morphe-patches"
@@ -44,7 +55,7 @@ archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.spotify.music"
 
 # https://github.com/j-hc/revanced-magisk-module/issues/554
 [Music-Extended]
-enabled = false
+# enabled = false
 app-name = "Music"
 patches-source = "inotia00/revanced-patches"
 cli-source = "inotia00/revanced-cli"
