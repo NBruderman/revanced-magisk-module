@@ -8,7 +8,6 @@ parallel-jobs = 1
 
 [YouTube]
 # patches-version = "dev"
-app-name = "YouTube"
 build-mode = "both"
 excluded-patches = ""
 included-patches = "" 
