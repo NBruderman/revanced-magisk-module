@@ -1,6 +1,6 @@
 {
-  "version": "v20.40.45 (patches 1.8.0.mpp)",
-  "versionCode": 20221251,
-  "zipUrl": "https://github.com/NBruderman/revanced-magisk-module/releases/download/20221251/youtube-morphe-magisk-v20.40.45-all.zip",
+  "version": "v20.40.45 (patches 1.9.0.mpp)",
+  "versionCode": 20221252,
+  "zipUrl": "https://github.com/NBruderman/revanced-magisk-module/releases/download/20221252/youtube-morphe-magisk-v20.40.45-all.zip",
   "changelog": "https://raw.githubusercontent.com/NBruderman/revanced-magisk-module/update/build.md"
 }
