@@ -10,7 +10,7 @@ parallel-jobs = 1
 app-name = "YouTube"
 patches-source = "MorpheApp/morphe-patches"
 cli-source = "MorpheApp/morphe-cli"
-21.04.223
+version = "21.04.223"
 rv-brand = "Morphe"
 build-mode = "both"
 excluded-patches = "'Custom branding'"
