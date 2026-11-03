@@ -9,7 +9,7 @@ parallel-jobs = 1
 [YouTube-Morphe]
 app-name = "YouTube"
 build-mode = "both"
-excluded-patches = "'Custom branding'"
+excluded-patches = "'Custom branding' 'Video delay'"
 apkmirror-dlurl = "https://www.apkmirror.com/apk/google-inc/youtube"
 archive-dlurl = "https://archive.org/download/jhc-apks/apks/com.google.android.youtube"
 enable-update-checks = true
